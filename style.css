@@ -1,0 +1,41 @@
+body {background-color: rgb(255, 255, 255);
+}
+h1 {text-align: center;
+    font-size: 250%;
+     color:rgb(0, 0, 0);}
+#ima1 {width: 50%;
+    margin-left: 25%;
+}
+h3 {text-align: center;
+    font-size: 200%;
+     color:rgb(216, 197, 27);}
+     #ima1 {width: 50%;
+        margin-left: 25%;
+}
+h4 {text-align: center;
+    font-size: 200%;
+     color:rgb(31, 190, 230);}
+     #ima1 {width: 50%;
+        margin-left: 25%;
+}
+h5 {text-align: center;
+    font-size: 200%;
+     color:rgb(139, 131, 139);}
+     #ima1 {width: 50%;
+        margin-left: 25%;
+}
+h6 {text-align: center;
+    font-size: 200%;
+     color:rgb(55, 34, 175);}
+    
+     #ima1 {width: 50%;
+        margin-left: 25%;
+}
+
+.tito {
+    border-color: aliceblue(220, 220, 233);
+    border-style: double;
+    border-color: aliceblue(220, 220, 233);
+    margin-left: 15%;
+    margin-right: 15%;
+}
